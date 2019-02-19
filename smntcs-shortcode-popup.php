@@ -1,15 +1,20 @@
 <?php
-/*
-Plugin Name: SMNTCS Shortcode Popup
-Description: Easily open any shortcode content in a pop-up.
-Author: Niels Lange
-Author URI: http://www.nielslange.de
-Text Domain: smntcs-shortcode-popup
-Domain Path: /languages/plugins/smntcs-shortcode-popup
-Version: 1.2.0 
-*/
+/**
+ * Plugin Name: SMNTCS Shortcode Popup
+ * Plugin URI: https://github.com/nielslange/smntcs-shortcode-popup
+ * Description: Easily open any shortcode content in a pop-up
+ * Author: Niels Lange
+ * Author URI: https://nielslange.com
+ * Text Domain: smntcs-shortcode-popup
+ * Domain Path: /languages/
+ * Version: 1.3
+ * Requires at least: 3.4
+ * Tested up to: 5.0
+ * License: GPLv2
+ * License URI: https://www.gnu.org/licenses/gpl-2.0.html
+ */
 
-/*  Copyright 2014-2016	Niels Lange (email : info@nielslange.de)
+/* Copyright 2014-2016	Niels Lange (email : info@nielslange.de)
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
