@@ -5,17 +5,19 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: Twitter Bootstrap Modal, popup form, shortcode popup, shortcode modal
 Requires at least: 3.4
 Tested up to: 5.0
-Stable tag: 1.3
+Stable tag: 1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Easily open any shortcode content in a pop-up.
+Easily open any shortcode content in a pop-up
 
 == Description ==
 
-Tired of looking for "another" plugin to open your favorite contact form as a pop-up?<br />
-'SMNTCS Popup Anything' allows the easy creation of pop-up contact forms and more, using the famous <a href="http://getbootstrap.com/javascript/#modals" target="_blank">Twitter Bootstrap</a> modal.<br />
-<i>Popup Anything! Works well with Contact Form 7, Gravity Forms, TablePress and more!</i> 
+Tired of looking for "another" plugin to open your favorite contact form as a pop-up?
+
+'SMNTCS Popup Anything' allows the easy creation of pop-up contact forms and more, using the famous <a href="http://getbootstrap.com/javascript/#modals" target="_blank">Twitter Bootstrap</a> modal.
+
+<i>Popup Anything! Works well with Contact Form 7, Gravity Forms, TablePress and more!</i>
 
 == Installation ==
 
@@ -35,15 +37,18 @@ Tired of looking for "another" plugin to open your favorite contact form as a po
 
 == Changelog ==
 
+= 1.4 =
+* Tested up to 5.1
+
 = 1.3 =
-* Add README.md
+* Added README.md
 * Tested up to 5.0
 
 = 1.2 =
-* Add donation link
+* Added donation link
 
 = 1.1 =
-* Update domain path
+* Updated domain path
 
 = 1.0 =
 * Initial release
