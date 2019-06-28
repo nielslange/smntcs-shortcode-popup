@@ -3,33 +3,23 @@
  * Plugin Name: SMNTCS Shortcode Popup
  * Plugin URI: https://github.com/nielslange/smntcs-shortcode-popup
  * Description: Easily open any shortcode content in a pop-up
- * Author: Niels Lange
+ * Author: Niels Lange <info@nielslange.de>
  * Author URI: https://nielslange.com
  * Text Domain: smntcs-shortcode-popup
  * Domain Path: /languages/
- * Version: 1.4
+ * Version: 1.5
  * Requires at least: 3.4
- * Tested up to: 5.0
- * License: GPLv2
+ * Tested up to: 5.2
+ * Requires PHP: 5.6
+ * License: GPL2+
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
+ *
+ * @category   Plugin
+ * @package    WordPress
+ * @subpackage SMNTCS Shortcode Popup
+ * @author     Niels Lange <info@nielslange.de>
+ * @license    http://opensource.org/licenses/gpl-license.php GNU Public License
  */
-
-/* Copyright 2014-2016	Niels Lange (email : info@nielslange.de)
-
-This program is free software; you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation; either version 2 of the License, or
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with this program; if not, write to the Free Software
-Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
-*/
 
 // Activate plugin
 register_activation_hook(__FILE__, 'smntcs_shortcode_popup_activate_plugin');
